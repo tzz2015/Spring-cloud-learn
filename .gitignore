@@ -1,1 +1,5 @@
 /user-service/target/
+/order-service/target/
+/feign-api/target/
+/eureka-server/target/
+/.idea/
